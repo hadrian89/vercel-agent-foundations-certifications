@@ -47,6 +47,8 @@
     "@streamdown/mermaid": "^1.0.2",
     "@vercel/analytics": "1.6.1",
     "@vercel/oidc": "^3.7.1",
+    "@workflow/core": "^5.2.2",
+    "@workflow/world-vercel": "^5.2.2",
     "@xyflow/react": "^12.10.2",
     "ai": "^7.0.146",
     "ansi-to-react": "^6.2.6",
